@@ -12,6 +12,15 @@ const newobj = {
     difficulty: "Hard"
 }
 
+const realobj = {
+    date : 14,
+    time : 13 ,
+    place : Ind 
+
+}
+
+
+
 // console.log(myobj.Name, myobj.Location, myobj.age, myobj.Engaged, myobj.Test);
 // console.log(newobj.goal, newobj.focus, newobj.difficulty);
 
@@ -22,5 +31,7 @@ myobj.Engaged = "never" ;
 
 console.log(myobj["Engaged"]);
 
-myobj
+
+
+
 
