@@ -1,1 +1,3 @@
-console.log("push") ; 
+ let  CurrentDate = new Date() ;  
+
+console.log(`push on ${CurrentDate}`) ; 
