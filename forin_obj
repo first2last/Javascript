@@ -1,0 +1,13 @@
+const SC = {
+
+    js : "javascript" ,
+    cpp : "CPP" , 
+    c : "C" , 
+    Java : "Java" , 
+    Html : "HTML" , 
+    PY : "Python"
+}
+
+for (const key in SC) {
+      console.log(`${key} : ${SC[key]}`) ; 
+    }
